@@ -1,0 +1,25 @@
+{
+  "name": "ChatBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCitalo/ChatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCitalo/ChatBot/issues"
+  },
+  "homepage": "https://github.com/DCitalo/ChatBot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
